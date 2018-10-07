@@ -1,0 +1,6 @@
+list.csv
+
+.env
+
+# dependencies
+/node_modules

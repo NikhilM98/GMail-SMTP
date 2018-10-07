@@ -1,0 +1,16 @@
+{
+  "name": "massmailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mailer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvjson": "^5.1.0",
+    "dotenv": "^6.0.0",
+    "nodemailer": "^4.6.8"
+  }
+}
